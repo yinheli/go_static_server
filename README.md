@@ -1,0 +1,1 @@
+# golang static file server
